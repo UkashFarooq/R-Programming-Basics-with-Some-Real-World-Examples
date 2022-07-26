@@ -1,4 +1,5 @@
 # A vector in R is nothing but a sequence of the same data types.
+# each variable of length even one is a vector in R. It stores everything as vectors.
 # Or we can say that it is an array of the same datatypes.
 #Also, indexing in R starts from 1 and not 0 like other programming languages.
 
