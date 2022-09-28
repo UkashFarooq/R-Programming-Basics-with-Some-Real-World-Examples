@@ -7,7 +7,7 @@ while(FALSE){
 while(TRUE){
   print("Hello") #to print inside a loop we need to use the keyword print
   #since we set it to true, so it will create an infinite loop
-  #to get out of the loop, press escape on your PC.
+  #to get out of the loop, press escape on your system.
 } 
 
 counter <- 1
